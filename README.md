@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaushik-Dudhade
-- 👀 I’m interested in solving problems by coding solutions.
-- 🌱 I’m currently learning various computer languages.
-- 💞️ I’m looking to collaborate on projects for frontend, python and Java programming. 
+- 👀 I’m interested in solving problems in innovative ways.
+- 🌱 I’m experienced in Data Science, Machine Learning, AI and generic Python Development.
+- 💞️ I’m looking for a job opportunity in Software development and Data Science.
 - 📫 Mail me at kaushik.dudhade@gmail.com to get in touch.
 
 <!---
