@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaushik-Dudhade
-- 👀 I’m interested in solving problems in innovative ways.
-- 🌱 I’m experienced in Data Science, Machine Learning, AI and generic Python Development.
-- 💞️ I’m looking for a job opportunity in Software development or Data Science.
+- 👀 I’m interested in solving all problems in innovative ways.
+- 🌱 I’m experienced in AI/ML, Data Science and generic Python Development.
+- 💞️ Open to Business Analyst, Software development, AI/ML and Data Science roles.
 - 📫 Mail me at kaushik.dudhade@gmail.com to get in touch.
 
 <!---
